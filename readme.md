@@ -15,3 +15,7 @@ tasks.named("bootBuildImage") {
 ```
 
 The `bootBuildImage` does neither fails nor complete but runs forever.
+
+## Why the complex version name?
+
+The gradle nebula release plugin may produce such a version
